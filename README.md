@@ -8,13 +8,15 @@
 
 <br/>
 
-Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
+Hey Guys, here is a list of **350+ Free TryHackMe rooms** that rng70 so lovingly compiled.
 
-All the rooms mentioned here are absolute free. ENJOY!!
+We will be going through them and using this fork to keep track of our progress.
+
+All the rooms mentioned here ~~are~~ [were] absolute free [at the time the list was created... probably]. ENJOY!!
 
 ## Maintainer
 
-> **_This repository is maintained by [Al Arafat Tanin | rng70](https://github.com/rng70/). For any suggestion feel free to reach [me.](https://github.com/rng70/)_**
+> **_The original repository is maintained by [Al Arafat Tanin | rng70](https://github.com/rng70/). For any suggestion feel free to reach [them.](https://github.com/rng70/)_**
 
 <br/>
 
@@ -25,7 +27,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |  ~~10~~ **9**   |           **9**           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **1**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |   ~~5~~ **4**   |           **2**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **1**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **1**           |
@@ -82,7 +84,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] ~~[TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)~~ Private Room
 
-- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [x] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
 - [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
