@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/StarByte.png" alt="Your Image Badge" />
+
+<br/>
+
 Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
 
 All the rooms mentioned here are absolute free. ENJOY!!
