@@ -24,7 +24,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |           **6**           |
+| **[Introductory Rooms](#intro-rooms)**            |   ~~10~~**9**   |           **9**           |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **1**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **1**           |
@@ -66,15 +66,15 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [x] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [x] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
 - [x] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
+- [ ] ~~[TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)~~ Private Room
 
-- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
