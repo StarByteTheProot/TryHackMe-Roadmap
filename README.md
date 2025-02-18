@@ -80,7 +80,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
+- [ ] ~~[TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)~~ Private Room
 
 - [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
