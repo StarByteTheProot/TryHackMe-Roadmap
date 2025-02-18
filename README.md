@@ -20,8 +20,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |           **1**           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
+| **[Introductory Rooms](#intro-rooms)**            |     **10**      |           **5**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **1**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
@@ -52,13 +52,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
+- [x] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
 - [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
@@ -80,7 +80,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
 - [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 
