@@ -27,7 +27,7 @@ All the rooms mentioned here ~~are~~ [were] absolute free [at the time the list 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |  ~~10~~ **9**   |           **9**           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |   ~~5~~ **4**   |           **2**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |   ~~5~~ **2**   |           **2**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **1**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **1**           |
@@ -88,9 +88,9 @@ All the rooms mentioned here ~~are~~ [were] absolute free [at the time the list 
 
 - [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- [ ] ~~[TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)~~ Premium Room
 
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [ ] ~~[TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)~~ Premium Room
 
 ## Windows Fundamentals
 
