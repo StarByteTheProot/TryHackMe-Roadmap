@@ -33,7 +33,7 @@ All the rooms mentioned here ~~are~~ [were] absolute free [at the time the list 
 | **[Reconnaissance](#recon)**                      |     **10**      |             1             |
 | **[Scripting](#scripting)**                       |      **8**      |                           |
 | **[Networking](#networking)**                     |      **7**      |                           |
-| **[Tooling](#tooling)**                           |     **17**      |                           |
+| **[Tooling](#tooling)**                           |     **17**      |             1             |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **27**      |                           |
@@ -194,7 +194,7 @@ All the rooms mentioned here ~~are~~ [were] absolute free [at the time the list 
 
 - [ ] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
 
-- [ ] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
+- [x] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
