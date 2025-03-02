@@ -28,7 +28,7 @@ All the rooms mentioned here ~~are~~ [were] absolute free [at the time the list 
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |  ~~10~~ **9**   |           **9**           |
 | **[Linux Fundamentals](#linux-fundamentals)**     |   ~~5~~ **2**   |           **2**           |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
+| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |             1             |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |             1             |
 | **[Reconnaissance](#recon)**                      |     **10**      |             1             |
 | **[Scripting](#scripting)**                       |      **8**      |                           |
@@ -96,7 +96,7 @@ All the rooms mentioned here ~~are~~ [were] absolute free [at the time the list 
 
 ---
 
-- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 
 - [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 
