@@ -134,7 +134,7 @@ All the rooms mentioned here ~~are~~ [were] absolute free [at the time the list 
 
 - [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
-- [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [x] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
