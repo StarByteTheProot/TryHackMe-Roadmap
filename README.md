@@ -136,7 +136,7 @@ All the rooms mentioned here ~~are~~ [were] absolute free [at the time the list 
 
 - [x] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
-- [x] ~~[TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)~~ **OUTDATED**
+- [x] ~~[TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)~~ Outdated Room
 
 - [x] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
