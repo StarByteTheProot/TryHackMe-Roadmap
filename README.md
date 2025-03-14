@@ -30,7 +30,7 @@ All the rooms mentioned here ~~are~~ [were] absolute free [at the time the list 
 | **[Linux Fundamentals](#linux-fundamentals)**     |   ~~5~~ **2**   |           **2**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **3**           |
 | **[Basic Rooms](#basics-rooms)**                  |   ~~9~~ **8**   |             2             |
-| **[Reconnaissance](#recon)**                      |     **10**      |             1             |
+| **[Reconnaissance](#recon)**                      |     **10**      |             3             |
 | **[Scripting](#scripting)**                       |      **8**      |                           |
 | **[Networking](#networking)**                     |      **7**      |                           |
 | **[Tooling](#tooling)**                           |     **17**      |             1             |
